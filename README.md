@@ -16,4 +16,16 @@ ui: 界面文件
 
 run.py 项目启动文件
 
+face_card.sql 数据库文件
+
 ## 项目展示
+
+![打卡界面](https://github.com/2111lidongyang/Face-recognition-attendance-system/blob/main/img/img.png)
+
+![用户注册界面](https://github.com/2111lidongyang/Face-recognition-attendance-system/blob/main/img/img_1.png)
+
+![管理员登录界面](https://github.com/2111lidongyang/Face-recognition-attendance-system/blob/main/img/img_2.png)
+
+![考勤统计管理](https://github.com/2111lidongyang/Face-recognition-attendance-system/blob/main/img/img_3.png)
+
+![请假管理](https://github.com/2111lidongyang/Face-recognition-attendance-system/blob/main/img/img_4.png)
