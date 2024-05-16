@@ -6,7 +6,7 @@ from sql.databases import PymysqlClass
 
 
 def create_db():
-    db = PymysqlClass(host='43.143.229.40', user='root', password='team2111..', database='face_card',
+    db = PymysqlClass(host='#', user='root', password='#', database='face_card',
                       port=3306)
     db.connect()
     cursor = db.get_cursor()
